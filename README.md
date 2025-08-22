@@ -38,29 +38,17 @@ Para executar o projeto, siga os passos abaixo:
 
 Clone o repositório:
 ```bash
-
-Run
-Copy code
 git clone https://github.com/Zeryoss/Analise_Gargalos.git
 ```
 Navegue até o diretório do projeto:
 ```bash
-
-Run
-Copy code
 cd Analise_Gargalos
 ```
 Instale as dependências necessárias:
 ```bash
-
-Run
-Copy code
 pip install -r requirements.txt
 ```
 Execute o script principal:
 ```bash
-
-Run
-Copy code
 python Analise_Gargalos_AG0.py
 ```
