@@ -37,7 +37,8 @@ Este projeto não apenas destaca a importância de monitorar o desempenho de sis
 Para executar o projeto, siga os passos abaixo:
 
 Clone o repositório:
-bash
+   ```bash
+git clone https://github.com/Zeryoss/Analise_Gargalos.git
 
 Run
 Copy code
